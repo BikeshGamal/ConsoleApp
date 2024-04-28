@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp._15HierchicalInheritance</StartupObject>
+    <StartupObject>ConsoleApp._16MethodOverloading</StartupObject>
   </PropertyGroup>
 
 </Project>
