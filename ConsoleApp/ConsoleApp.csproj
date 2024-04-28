@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp._28Indexer</StartupObject>
+    <StartupObject>ConsoleApp._29Delegate</StartupObject>
   </PropertyGroup>
 
 </Project>
