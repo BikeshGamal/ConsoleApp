@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp._17AccessSpecifier</StartupObject>
+    <StartupObject>ConsoleApp._18Properties</StartupObject>
   </PropertyGroup>
 
 </Project>
