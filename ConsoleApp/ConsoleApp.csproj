@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp._27Enum</StartupObject>
+    <StartupObject>ConsoleApp._28Indexer</StartupObject>
   </PropertyGroup>
 
 </Project>
