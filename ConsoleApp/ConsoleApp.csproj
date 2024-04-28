@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp._24BoxingUnboxing</StartupObject>
+    <StartupObject>ConsoleApp._25ArrayList</StartupObject>
   </PropertyGroup>
 
 </Project>
