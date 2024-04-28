@@ -6,6 +6,24 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
+    public class Calculator
+    {
+        public double add(double a,double b)
+        {
+            return a + b;
+        }
+        public double sub(double a, double b) { return a - b; }
+        public double mul(double a,double b) { return a*b; }
+        public double div(double a, double b) { return a / b; }
+        public bool isEven(int num)
+        {
+            if(num%2==0)
+                {
+                return true;
+            }
+            return false;
+        }
+    }
     public class Employee
     {
         public string name;
@@ -30,6 +48,12 @@ namespace ConsoleApp
         {
             Employee emp=new Employee("Rasid Khan",45000,"2020-01-02");
             emp.getEmployeeDetails();
+            Calculator calc=new Calculator();
+            Console.WriteLine("sum=" + calc.add(2, 3));
+            Console.WriteLine("sub=" + calc.sub(2, 3));
+            Console.WriteLine("mul="+calc.mul(2, 3));   
+            Console.WriteLine("div="+calc.div(2, 3));
+            Console.WriteLine(calc.isEven(39));
         }
     }
 }
